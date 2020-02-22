@@ -37,6 +37,6 @@ start esx_fullpolicejob
    * If you want license management you have to set `Config.EnableLicenses` to `true` in `config.lua`
 
 ## Credits
-Moddinq#1883
-DuhItzDaan#4407
+* Moddinq#1883
+* DuhItzDaan#4407
 
