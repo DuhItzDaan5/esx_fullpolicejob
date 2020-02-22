@@ -30,7 +30,7 @@ This is the original version of the policejob: https://github.com/ESX-Org/esx_po
 - Add this in your server.cfg :
 
 ```
-start esx_fullpolicejob
+start esx_policejob
 ```
 -  * If you want player management you have to set `Config.EnablePlayerManagement` to `true` in `config.lua`
    * If you want armory management you have to set `Config.EnableArmoryManagement` to `true` in `config.lua`
